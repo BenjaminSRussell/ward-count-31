@@ -616,3 +616,6 @@
 {"n":616,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot south yard. Ivo keeps the hydrant for the wipe. 5 steps, direct on the left lane, open."}
 {"n":617,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south yard. direct left open. 6 steps. The hydrant stays for the wipe."}
 {"n":618,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at the Lot. Nobody past the south yard. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":619,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot south yard. Bess keeps the hydrant for the wipe. 8 steps, direct on the left lane, open."}
+{"n":620,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south yard. direct left open. 2 steps. The hydrant stays for the wipe."}
+{"n":621,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at Stockyard fence. Nobody past the south yard. We wipe in 3 steps. Direct on the left lane, open."}
