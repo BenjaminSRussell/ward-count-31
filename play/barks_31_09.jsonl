@@ -68,3 +68,6 @@
 {"n":68,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier east court. Ivo keeps the crate for the wipe. 5 steps, direct on the left lane, open."}
 {"n":69,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east court. direct left open. 6 steps. The crate stays for the wipe."}
 {"n":70,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at the pier. Nobody past the east court. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":71,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier east court. Bess keeps the crate for the wipe. 8 steps, direct on the left lane, open."}
+{"n":72,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east court. direct left open. 2 steps. The crate stays for the wipe."}
+{"n":73,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Clinic roof. Nobody past the east court. We wipe in 3 steps. Direct on the left lane, open."}
