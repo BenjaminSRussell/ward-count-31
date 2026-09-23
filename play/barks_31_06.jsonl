@@ -560,3 +560,6 @@
 {"n":560,"kind":"place","name":"Clinic roof west court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof west court. Ivo keeps the plywood for the wipe. 3 steps, direct on the left lane, open."}
 {"n":561,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west court. direct left open. 4 steps. The plywood stays for the wipe."}
 {"n":562,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at Clinic roof. Nobody past the west court. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":563,"kind":"place","name":"Clinic roof west court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Clinic roof west court. Bess keeps the plywood for the wipe. 6 steps, direct on the left lane, open."}
+{"n":564,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, west court. direct left open. 7 steps. The plywood stays for the wipe."}
+{"n":565,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Switchyard. Nobody past the west court. We wipe in 8 steps. Direct on the left lane, open."}
