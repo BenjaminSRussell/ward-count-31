@@ -253,3 +253,6 @@
 {"n":253,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west court. direct left open. 2 steps. The badge door stays for the wipe."}
 {"n":254,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Switchyard. Nobody past the west court. We wipe in 3 steps. Direct on the left lane, open."}
 {"n":255,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard west court. Bess keeps the badge door for the wipe. 4 steps, direct on the left lane, open."}
+{"n":256,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west court. direct left open. 5 steps. The badge door stays for the wipe."}
+{"n":257,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Drydock. Nobody past the west court. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":258,"kind":"place","name":"Drydock west court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock west court. Matt keeps the badge door for the wipe. 7 steps, direct on the left lane, open."}
