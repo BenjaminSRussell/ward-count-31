@@ -41,3 +41,6 @@
 {"n":41,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Clinic roof. Nobody past the south yard. We wipe in 3 steps. Direct on the left lane, open."}
 {"n":42,"kind":"place","name":"Clinic roof south yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof south yard. Matt keeps the crate for the wipe. 4 steps, direct on the left lane, open."}
 {"n":43,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south yard. direct left open. 5 steps. The crate stays for the wipe."}
+{"n":44,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at Clinic roof. Nobody past the south yard. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":45,"kind":"place","name":"Clinic roof south yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Clinic roof south yard. Nia keeps the crate for the wipe. 7 steps, direct on the left lane, open."}
+{"n":46,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south yard. direct left open. 8 steps. The crate stays for the wipe."}
