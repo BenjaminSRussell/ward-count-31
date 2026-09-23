@@ -905,3 +905,6 @@
 {"n":905,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south yard. direct left open. 7 steps. The barrel stays for the wipe."}
 {"n":906,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at Drydock. Nobody past the south yard. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":907,"kind":"place","name":"Drydock south yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock south yard. Bess keeps the barrel for the wipe. 2 steps, direct on the left lane, open."}
+{"n":908,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south yard. direct left open. 3 steps. The barrel stays for the wipe."}
+{"n":909,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at High line. Nobody past the south yard. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":910,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line south yard. Matt keeps the barrel for the wipe. 5 steps, direct on the left lane, open."}
