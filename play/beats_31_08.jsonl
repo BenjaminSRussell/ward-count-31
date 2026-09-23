@@ -923,3 +923,6 @@
 {"n":923,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the barrel at Switchyard. Nobody past the east court. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":924,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard east court. Ivo keeps the barrel for the wipe. 8 steps, direct on the left lane, open."}
 {"n":925,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east court. direct left open. 2 steps. The barrel stays for the wipe."}
+{"n":926,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at Switchyard. Nobody past the east court. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":927,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard east court. Bess keeps the barrel for the wipe. 4 steps, direct on the left lane, open."}
+{"n":928,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east court. direct left open. 5 steps. The barrel stays for the wipe."}
