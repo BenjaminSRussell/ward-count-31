@@ -573,3 +573,6 @@
 {"n":573,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west court. direct left open. 2 steps. The plywood stays for the wipe."}
 {"n":574,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at Switchyard. Nobody past the west court. We wipe in 3 steps. Direct on the left lane, open."}
 {"n":575,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard west court. Bess keeps the plywood for the wipe. 4 steps, direct on the left lane, open."}
+{"n":576,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west court. direct left open. 5 steps. The plywood stays for the wipe."}
+{"n":577,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Drydock. Nobody past the west court. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":578,"kind":"place","name":"Drydock west court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock west court. Matt keeps the plywood for the wipe. 7 steps, direct on the left lane, open."}
