@@ -973,3 +973,6 @@
 {"n":973,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at Kessler alley. Nobody past the east court. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":974,"kind":"place","name":"Kessler alley east court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley east court. Matt keeps the drum for the wipe. 8 steps, direct on the left lane, open."}
 {"n":975,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, east court. direct left open. 2 steps. The drum stays for the wipe."}
+{"n":976,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the drum at Kessler alley. Nobody past the east court. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":977,"kind":"place","name":"Kessler alley east court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley east court. Nia keeps the drum for the wipe. 4 steps, direct on the left lane, open."}
+{"n":978,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east court. direct left open. 5 steps. The drum stays for the wipe."}
