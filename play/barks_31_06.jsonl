@@ -59,3 +59,6 @@
 {"n":59,"kind":"place","name":"Clinic roof south yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Clinic roof south yard. Bess keeps the drum for the wipe. 6 steps, direct on the left lane, open."}
 {"n":60,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south yard. direct left open. 7 steps. The drum stays for the wipe."}
 {"n":61,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at Switchyard. Nobody past the south yard. We wipe in 8 steps. Direct on the left lane, open."}
+{"n":62,"kind":"place","name":"Switchyard south yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard south yard. Matt keeps the drum for the wipe. 2 steps, direct on the left lane, open."}
+{"n":63,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, south yard. direct left open. 3 steps. The drum stays for the wipe."}
+{"n":64,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the drum at Switchyard. Nobody past the south yard. We wipe in 4 steps. Direct on the left lane, open."}
