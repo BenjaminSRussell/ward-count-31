@@ -354,3 +354,6 @@
 {"n":354,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, south yard. direct left open. 7 steps. The radio coil stays for the wipe."}
 {"n":355,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the radio coil at Last Light. Nobody past the south yard. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":356,"kind":"place","name":"Last Light south yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Last Light south yard. Ivo keeps the radio coil for the wipe. 2 steps, direct on the left lane, open."}
+{"n":357,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, south yard. direct left open. 3 steps. The radio coil stays for the wipe."}
+{"n":358,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at Last Light. Nobody past the south yard. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":359,"kind":"place","name":"Last Light south yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Last Light south yard. Bess keeps the radio coil for the wipe. 5 steps, direct on the left lane, open."}
