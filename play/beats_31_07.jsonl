@@ -798,3 +798,6 @@
 {"n":798,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at Kessler alley. Nobody past the west court. We wipe in 2 steps. Direct on the left lane, open."}
 {"n":799,"kind":"place","name":"Kessler alley west court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley west court. Bess keeps the awning for the wipe. 3 steps, direct on the left lane, open."}
 {"n":800,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west court. direct left open. 4 steps. The awning stays for the wipe."}
+{"n":801,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at the Lot. Nobody past the west court. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":802,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot west court. Matt keeps the awning for the wipe. 6 steps, direct on the left lane, open."}
+{"n":803,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west court. direct left open. 7 steps. The awning stays for the wipe."}
