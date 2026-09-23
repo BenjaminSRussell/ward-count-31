@@ -417,3 +417,6 @@
 {"n":417,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south yard. direct left open. 7 steps. The radio coil stays for the wipe."}
 {"n":418,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at Drydock. Nobody past the south yard. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":419,"kind":"place","name":"Drydock south yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock south yard. Bess keeps the radio coil for the wipe. 2 steps, direct on the left lane, open."}
+{"n":420,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south yard. direct left open. 3 steps. The radio coil stays for the wipe."}
+{"n":421,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at High line. Nobody past the south yard. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":422,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line south yard. Matt keeps the radio coil for the wipe. 5 steps, direct on the left lane, open."}
