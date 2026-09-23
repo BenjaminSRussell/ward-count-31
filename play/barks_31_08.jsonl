@@ -552,3 +552,6 @@
 {"n":552,"kind":"place","name":"South stair east court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair east court. Ivo keeps the plywood for the wipe. 7 steps, direct on the left lane, open."}
 {"n":553,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east court. direct left open. 8 steps. The plywood stays for the wipe."}
 {"n":554,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at South stair. Nobody past the east court. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":555,"kind":"place","name":"South stair east court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair east court. Bess keeps the plywood for the wipe. 3 steps, direct on the left lane, open."}
+{"n":556,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east court. direct left open. 4 steps. The plywood stays for the wipe."}
+{"n":557,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at the pier. Nobody past the east court. We wipe in 5 steps. Direct on the left lane, open."}
