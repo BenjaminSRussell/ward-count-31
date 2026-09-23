@@ -382,3 +382,6 @@
 {"n":382,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at High line. Nobody past the west yard. We wipe in 6 steps. Direct on the left lane, open."}
 {"n":383,"kind":"place","name":"High line west yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line west yard. Bess keeps the radio coil for the wipe. 7 steps, direct on the left lane, open."}
 {"n":384,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west yard. direct left open. 8 steps. The radio coil stays for the wipe."}
+{"n":385,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Ward gate. Nobody past the east yard. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":386,"kind":"place","name":"Ward gate east yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate east yard. Matt keeps the plywood for the wipe. 3 steps, direct on the left lane, open."}
+{"n":387,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east yard. direct left open. 4 steps. The plywood stays for the wipe."}
