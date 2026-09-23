@@ -229,3 +229,6 @@
 {"n":229,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south yard. direct left open. 2 steps. The lamp stays for the wipe."}
 {"n":230,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at Switchyard. Nobody past the south yard. We wipe in 3 steps. Direct on the left lane, open."}
 {"n":231,"kind":"place","name":"Switchyard south yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard south yard. Bess keeps the lamp for the wipe. 4 steps, direct on the left lane, open."}
+{"n":232,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south yard. direct left open. 5 steps. The lamp stays for the wipe."}
+{"n":233,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Drydock. Nobody past the south yard. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":234,"kind":"place","name":"Drydock south yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock south yard. Matt keeps the lamp for the wipe. 7 steps, direct on the left lane, open."}
