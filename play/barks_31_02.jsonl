@@ -411,3 +411,6 @@
 {"n":411,"kind":"place","name":"Ward gate north yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate north yard. Bess keeps the plywood for the wipe. 5 steps, direct on the left lane, open."}
 {"n":412,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north yard. direct left open. 6 steps. The plywood stays for the wipe."}
 {"n":413,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Kessler alley. Nobody past the north yard. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":414,"kind":"place","name":"Kessler alley north yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley north yard. Matt keeps the plywood for the wipe. 8 steps, direct on the left lane, open."}
+{"n":415,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north yard. direct left open. 2 steps. The plywood stays for the wipe."}
+{"n":416,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at Kessler alley. Nobody past the north yard. We wipe in 3 steps. Direct on the left lane, open."}
