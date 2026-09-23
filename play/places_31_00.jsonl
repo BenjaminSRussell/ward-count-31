@@ -894,3 +894,6 @@
 {"n":894,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, east yard. direct left open. 7 steps. The crate stays for the wipe."}
 {"n":895,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the crate at Ward gate. Nobody past the east yard. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":896,"kind":"place","name":"Ward gate east yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate east yard. Ivo keeps the crate for the wipe. 2 steps, direct on the left lane, open."}
+{"n":897,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, east yard. direct left open. 3 steps. The crate stays for the wipe."}
+{"n":898,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at Ward gate. Nobody past the east yard. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":899,"kind":"place","name":"Ward gate east yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate east yard. Bess keeps the crate for the wipe. 5 steps, direct on the left lane, open."}
