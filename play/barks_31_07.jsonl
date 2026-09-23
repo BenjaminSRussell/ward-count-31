@@ -367,3 +367,6 @@
 {"n":367,"kind":"place","name":"Last Light west court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Last Light west court. Bess keeps the rebar for the wipe. 5 steps, direct on the left lane, open."}
 {"n":368,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, west court. direct left open. 6 steps. The rebar stays for the wipe."}
 {"n":369,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rebar at South stair. Nobody past the west court. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":370,"kind":"place","name":"South stair west court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"South stair west court. Matt keeps the rebar for the wipe. 8 steps, direct on the left lane, open."}
+{"n":371,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, west court. direct left open. 2 steps. The rebar stays for the wipe."}
+{"n":372,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rebar at South stair. Nobody past the west court. We wipe in 3 steps. Direct on the left lane, open."}
