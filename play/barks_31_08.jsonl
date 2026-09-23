@@ -525,3 +525,6 @@
 {"n":525,"kind":"place","name":"Mast yard east court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mast yard east court. Nia keeps the plywood for the wipe. 8 steps, direct on the left lane, open."}
 {"n":526,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east court. direct left open. 2 steps. The plywood stays for the wipe."}
 {"n":527,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the plywood at Mast yard. Nobody past the east court. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":528,"kind":"place","name":"Mast yard east court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard east court. Ivo keeps the plywood for the wipe. 4 steps, direct on the left lane, open."}
+{"n":529,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east court. direct left open. 5 steps. The plywood stays for the wipe."}
+{"n":530,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at Mast yard. Nobody past the east court. We wipe in 6 steps. Direct on the left lane, open."}
