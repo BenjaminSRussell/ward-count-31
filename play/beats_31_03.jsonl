@@ -121,3 +121,6 @@
 {"n":121,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Mall court. Nobody past the north yard. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":122,"kind":"place","name":"Mall court north yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mall court north yard. Matt keeps the lamp for the wipe. 2 steps, direct on the left lane, open."}
 {"n":123,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, north yard. direct left open. 3 steps. The lamp stays for the wipe."}
+{"n":124,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at Mall court. Nobody past the north yard. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":125,"kind":"place","name":"Mall court north yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mall court north yard. Nia keeps the lamp for the wipe. 5 steps, direct on the left lane, open."}
+{"n":126,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, north yard. direct left open. 6 steps. The lamp stays for the wipe."}
