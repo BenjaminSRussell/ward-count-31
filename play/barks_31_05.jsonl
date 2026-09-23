@@ -120,3 +120,6 @@
 {"n":120,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot south yard. Ivo keeps the lamp for the wipe. 5 steps, direct on the left lane, open."}
 {"n":121,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south yard. direct left open. 6 steps. The lamp stays for the wipe."}
 {"n":122,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at the Lot. Nobody past the south yard. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":123,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot south yard. Bess keeps the lamp for the wipe. 8 steps, direct on the left lane, open."}
+{"n":124,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south yard. direct left open. 2 steps. The lamp stays for the wipe."}
+{"n":125,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Stockyard fence. Nobody past the south yard. We wipe in 3 steps. Direct on the left lane, open."}
