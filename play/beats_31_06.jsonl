@@ -742,3 +742,6 @@
 {"n":742,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at Switchyard. Nobody past the west court. We wipe in 3 steps. Direct on the left lane, open."}
 {"n":743,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard west court. Bess keeps the hydrant for the wipe. 4 steps, direct on the left lane, open."}
 {"n":744,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west court. direct left open. 5 steps. The hydrant stays for the wipe."}
+{"n":745,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at Drydock. Nobody past the west court. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":746,"kind":"place","name":"Drydock west court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock west court. Matt keeps the hydrant for the wipe. 7 steps, direct on the left lane, open."}
+{"n":747,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west court. direct left open. 8 steps. The hydrant stays for the wipe."}
