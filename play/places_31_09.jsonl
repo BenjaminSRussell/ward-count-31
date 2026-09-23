@@ -237,3 +237,6 @@
 {"n":237,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east court. direct left open. 6 steps. The lamp stays for the wipe."}
 {"n":238,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at the pier. Nobody past the east court. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":239,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier east court. Bess keeps the lamp for the wipe. 8 steps, direct on the left lane, open."}
+{"n":240,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east court. direct left open. 2 steps. The lamp stays for the wipe."}
+{"n":241,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Clinic roof. Nobody past the east court. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":242,"kind":"place","name":"Clinic roof east court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof east court. Matt keeps the lamp for the wipe. 4 steps, direct on the left lane, open."}
