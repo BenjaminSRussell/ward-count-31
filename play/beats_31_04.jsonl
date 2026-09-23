@@ -138,3 +138,6 @@
 {"n":138,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Mall court. Nobody past the north yard. We wipe in 3 steps. Direct on the left lane, open."}
 {"n":139,"kind":"place","name":"Mall court north yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court north yard. Bess keeps the badge door for the wipe. 4 steps, direct on the left lane, open."}
 {"n":140,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north yard. direct left open. 5 steps. The badge door stays for the wipe."}
+{"n":141,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at the Underpass. Nobody past the north yard. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":142,"kind":"place","name":"the Underpass north yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass north yard. Matt keeps the badge door for the wipe. 7 steps, direct on the left lane, open."}
+{"n":143,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north yard. direct left open. 8 steps. The badge door stays for the wipe."}
