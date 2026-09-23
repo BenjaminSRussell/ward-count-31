@@ -93,3 +93,6 @@
 {"n":93,"kind":"place","name":"Drydock west court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock west court. Nia keeps the drum for the wipe. 3 steps, direct on the left lane, open."}
 {"n":94,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west court. direct left open. 4 steps. The drum stays for the wipe."}
 {"n":95,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the drum at Drydock. Nobody past the west court. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":96,"kind":"place","name":"Drydock west court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock west court. Ivo keeps the drum for the wipe. 6 steps, direct on the left lane, open."}
+{"n":97,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west court. direct left open. 7 steps. The drum stays for the wipe."}
+{"n":98,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at Drydock. Nobody past the west court. We wipe in 8 steps. Direct on the left lane, open."}
