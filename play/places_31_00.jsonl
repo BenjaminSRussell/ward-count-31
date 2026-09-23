@@ -297,3 +297,6 @@
 {"n":297,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west yard. direct left open. 5 steps. The radio coil stays for the wipe."}
 {"n":298,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at Mast yard. Nobody past the west yard. We wipe in 6 steps. Direct on the left lane, open."}
 {"n":299,"kind":"place","name":"Mast yard west yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard west yard. Bess keeps the radio coil for the wipe. 7 steps, direct on the left lane, open."}
+{"n":300,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west yard. direct left open. 8 steps. The radio coil stays for the wipe."}
+{"n":301,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Last Light. Nobody past the west yard. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":302,"kind":"place","name":"Last Light west yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light west yard. Matt keeps the radio coil for the wipe. 3 steps, direct on the left lane, open."}
