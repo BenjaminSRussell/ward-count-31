@@ -23,3 +23,6 @@
 {"n":23,"kind":"place","name":"Last Light south yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Last Light south yard. Bess keeps the drum for the wipe. 5 steps, direct on the left lane, open."}
 {"n":24,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, south yard. direct left open. 6 steps. The drum stays for the wipe."}
 {"n":25,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at South stair. Nobody past the south yard. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":26,"kind":"place","name":"South stair south yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"South stair south yard. Matt keeps the drum for the wipe. 8 steps, direct on the left lane, open."}
+{"n":27,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south yard. direct left open. 2 steps. The drum stays for the wipe."}
+{"n":28,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the drum at South stair. Nobody past the south yard. We wipe in 3 steps. Direct on the left lane, open."}
