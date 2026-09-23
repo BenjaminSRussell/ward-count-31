@@ -875,3 +875,6 @@
 {"n":875,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the awning at the pier. Nobody past the south yard. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":876,"kind":"place","name":"the pier south yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier south yard. Ivo keeps the awning for the wipe. 5 steps, direct on the left lane, open."}
 {"n":877,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south yard. direct left open. 6 steps. The awning stays for the wipe."}
+{"n":878,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at the pier. Nobody past the south yard. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":879,"kind":"place","name":"the pier south yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier south yard. Bess keeps the awning for the wipe. 8 steps, direct on the left lane, open."}
+{"n":880,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south yard. direct left open. 2 steps. The awning stays for the wipe."}
