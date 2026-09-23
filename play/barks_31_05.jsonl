@@ -399,3 +399,6 @@
 {"n":399,"kind":"place","name":"Switchyard south yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard south yard. Bess keeps the rebar for the wipe. 4 steps, direct on the left lane, open."}
 {"n":400,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south yard. direct left open. 5 steps. The rebar stays for the wipe."}
 {"n":401,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rebar at Drydock. Nobody past the south yard. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":402,"kind":"place","name":"Drydock south yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock south yard. Matt keeps the rebar for the wipe. 7 steps, direct on the left lane, open."}
+{"n":403,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south yard. direct left open. 8 steps. The rebar stays for the wipe."}
+{"n":404,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rebar at Drydock. Nobody past the south yard. We wipe in 2 steps. Direct on the left lane, open."}
