@@ -787,3 +787,6 @@
 {"n":787,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot south yard. Bess keeps the barrel for the wipe. 8 steps, direct on the left lane, open."}
 {"n":788,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south yard. direct left open. 2 steps. The barrel stays for the wipe."}
 {"n":789,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at Stockyard fence. Nobody past the south yard. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":790,"kind":"place","name":"Stockyard fence south yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence south yard. Matt keeps the barrel for the wipe. 4 steps, direct on the left lane, open."}
+{"n":791,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south yard. direct left open. 5 steps. The barrel stays for the wipe."}
+{"n":792,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the barrel at Stockyard fence. Nobody past the south yard. We wipe in 6 steps. Direct on the left lane, open."}
