@@ -689,3 +689,6 @@
 {"n":689,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at Mast yard. Nobody past the east court. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":690,"kind":"place","name":"Mast yard east court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard east court. Matt keeps the hydrant for the wipe. 5 steps, direct on the left lane, open."}
 {"n":691,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east court. direct left open. 6 steps. The hydrant stays for the wipe."}
+{"n":692,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the hydrant at Mast yard. Nobody past the east court. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":693,"kind":"place","name":"Mast yard east court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard east court. Nia keeps the hydrant for the wipe. 8 steps, direct on the left lane, open."}
+{"n":694,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east court. direct left open. 2 steps. The hydrant stays for the wipe."}
