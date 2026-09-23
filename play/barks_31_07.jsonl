@@ -136,3 +136,6 @@
 {"n":136,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot west court. Ivo keeps the lamp for the wipe. 5 steps, direct on the left lane, open."}
 {"n":137,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west court. direct left open. 6 steps. The lamp stays for the wipe."}
 {"n":138,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at the Lot. Nobody past the west court. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":139,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot west court. Bess keeps the lamp for the wipe. 8 steps, direct on the left lane, open."}
+{"n":140,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west court. direct left open. 2 steps. The lamp stays for the wipe."}
+{"n":141,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Stockyard fence. Nobody past the west court. We wipe in 3 steps. Direct on the left lane, open."}
