@@ -728,3 +728,6 @@
 {"n":728,"kind":"place","name":"Clinic roof west court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Clinic roof west court. Ivo keeps the hydrant for the wipe. 3 steps, direct on the left lane, open."}
 {"n":729,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west court. direct left open. 4 steps. The hydrant stays for the wipe."}
 {"n":730,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at Clinic roof. Nobody past the west court. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":731,"kind":"place","name":"Clinic roof west court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof west court. Bess keeps the hydrant for the wipe. 6 steps, direct on the left lane, open."}
+{"n":732,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, west court. direct left open. 7 steps. The hydrant stays for the wipe."}
+{"n":733,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at Switchyard. Nobody past the west court. We wipe in 8 steps. Direct on the left lane, open."}
