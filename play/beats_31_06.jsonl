@@ -901,3 +901,6 @@
 {"n":901,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at Switchyard. Nobody past the west court. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":902,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard west court. Matt keeps the barrel for the wipe. 2 steps, direct on the left lane, open."}
 {"n":903,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, west court. direct left open. 3 steps. The barrel stays for the wipe."}
+{"n":904,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the barrel at Switchyard. Nobody past the west court. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":905,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard west court. Nia keeps the barrel for the wipe. 5 steps, direct on the left lane, open."}
+{"n":906,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west court. direct left open. 6 steps. The barrel stays for the wipe."}
