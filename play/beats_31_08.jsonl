@@ -878,3 +878,6 @@
 {"n":878,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at Last Light. Nobody past the east court. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":879,"kind":"place","name":"Last Light east court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Last Light east court. Bess keeps the barrel for the wipe. 5 steps, direct on the left lane, open."}
 {"n":880,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, east court. direct left open. 6 steps. The barrel stays for the wipe."}
+{"n":881,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at South stair. Nobody past the east court. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":882,"kind":"place","name":"South stair east court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"South stair east court. Matt keeps the barrel for the wipe. 8 steps, direct on the left lane, open."}
+{"n":883,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, east court. direct left open. 2 steps. The barrel stays for the wipe."}
