@@ -574,3 +574,6 @@
 {"n":574,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard west court. Matt keeps the rope for the wipe. 2 steps, direct on the left lane, open."}
 {"n":575,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, west court. direct left open. 3 steps. The rope stays for the wipe."}
 {"n":576,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rope at Switchyard. Nobody past the west court. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":577,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard west court. Nia keeps the rope for the wipe. 5 steps, direct on the left lane, open."}
+{"n":578,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west court. direct left open. 6 steps. The rope stays for the wipe."}
+{"n":579,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rope at Switchyard. Nobody past the west court. We wipe in 7 steps. Direct on the left lane, open."}
