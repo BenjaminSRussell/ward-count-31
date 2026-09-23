@@ -225,3 +225,6 @@
 {"n":225,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east court. direct left open. 8 steps. The lamp stays for the wipe."}
 {"n":226,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at South stair. Nobody past the east court. We wipe in 2 steps. Direct on the left lane, open."}
 {"n":227,"kind":"place","name":"South stair east court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair east court. Bess keeps the lamp for the wipe. 3 steps, direct on the left lane, open."}
+{"n":228,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east court. direct left open. 4 steps. The lamp stays for the wipe."}
+{"n":229,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at the pier. Nobody past the east court. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":230,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier east court. Matt keeps the lamp for the wipe. 6 steps, direct on the left lane, open."}
