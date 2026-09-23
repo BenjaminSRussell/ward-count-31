@@ -896,3 +896,6 @@
 {"n":896,"kind":"place","name":"Clinic roof west court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Clinic roof west court. Ivo keeps the barrel for the wipe. 3 steps, direct on the left lane, open."}
 {"n":897,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west court. direct left open. 4 steps. The barrel stays for the wipe."}
 {"n":898,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at Clinic roof. Nobody past the west court. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":899,"kind":"place","name":"Clinic roof west court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Clinic roof west court. Bess keeps the barrel for the wipe. 6 steps, direct on the left lane, open."}
+{"n":900,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, west court. direct left open. 7 steps. The barrel stays for the wipe."}
+{"n":901,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at Switchyard. Nobody past the west court. We wipe in 8 steps. Direct on the left lane, open."}
