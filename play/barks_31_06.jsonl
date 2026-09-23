@@ -800,3 +800,6 @@
 {"n":800,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot west court. Ivo keeps the barrel for the wipe. 5 steps, direct on the left lane, open."}
 {"n":801,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west court. direct left open. 6 steps. The barrel stays for the wipe."}
 {"n":802,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at the Lot. Nobody past the west court. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":803,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot west court. Bess keeps the barrel for the wipe. 8 steps, direct on the left lane, open."}
+{"n":804,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west court. direct left open. 2 steps. The barrel stays for the wipe."}
+{"n":805,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at Stockyard fence. Nobody past the west court. We wipe in 3 steps. Direct on the left lane, open."}
