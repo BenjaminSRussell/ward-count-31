@@ -353,3 +353,6 @@
 {"n":353,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north yard. direct left open. 8 steps. The radio coil stays for the wipe."}
 {"n":354,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at South stair. Nobody past the north yard. We wipe in 2 steps. Direct on the left lane, open."}
 {"n":355,"kind":"place","name":"South stair north yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair north yard. Bess keeps the radio coil for the wipe. 3 steps, direct on the left lane, open."}
+{"n":356,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north yard. direct left open. 4 steps. The radio coil stays for the wipe."}
+{"n":357,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at the pier. Nobody past the north yard. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":358,"kind":"place","name":"the pier north yard","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the pier north yard. Matt keeps the radio coil for the wipe. 6 steps, direct on the left lane, open."}
