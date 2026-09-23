@@ -419,3 +419,6 @@
 {"n":419,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west court. direct left open. 8 steps. The rebar stays for the wipe."}
 {"n":420,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rebar at Drydock. Nobody past the west court. We wipe in 2 steps. Direct on the left lane, open."}
 {"n":421,"kind":"place","name":"Drydock west court","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Drydock west court. Nia keeps the rebar for the wipe. 3 steps, direct on the left lane, open."}
+{"n":422,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west court. direct left open. 4 steps. The rebar stays for the wipe."}
+{"n":423,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rebar at Drydock. Nobody past the west court. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":424,"kind":"place","name":"Drydock west court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Drydock west court. Ivo keeps the rebar for the wipe. 6 steps, direct on the left lane, open."}
