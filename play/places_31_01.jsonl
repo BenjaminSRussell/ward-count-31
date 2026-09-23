@@ -569,3 +569,6 @@
 {"n":569,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, east yard. direct left open. 3 steps. The shutter stays for the wipe."}
 {"n":570,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at Ward gate. Nobody past the east yard. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":571,"kind":"place","name":"Ward gate east yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate east yard. Bess keeps the shutter for the wipe. 5 steps, direct on the left lane, open."}
+{"n":572,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, east yard. direct left open. 6 steps. The shutter stays for the wipe."}
+{"n":573,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at Kessler alley. Nobody past the east yard. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":574,"kind":"place","name":"Kessler alley east yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley east yard. Matt keeps the shutter for the wipe. 8 steps, direct on the left lane, open."}
