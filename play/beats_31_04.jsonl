@@ -726,3 +726,6 @@
 {"n":726,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at Switchyard. Nobody past the south yard. We wipe in 3 steps. Direct on the left lane, open."}
 {"n":727,"kind":"place","name":"Switchyard south yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard south yard. Bess keeps the hydrant for the wipe. 4 steps, direct on the left lane, open."}
 {"n":728,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south yard. direct left open. 5 steps. The hydrant stays for the wipe."}
+{"n":729,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at Drydock. Nobody past the south yard. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":730,"kind":"place","name":"Drydock south yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock south yard. Matt keeps the hydrant for the wipe. 7 steps, direct on the left lane, open."}
+{"n":731,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south yard. direct left open. 8 steps. The hydrant stays for the wipe."}
