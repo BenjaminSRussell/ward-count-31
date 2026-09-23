@@ -717,3 +717,6 @@
 {"n":717,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east yard. direct left open. 5 steps. The hydrant stays for the wipe."}
 {"n":718,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at High line. Nobody past the east yard. We wipe in 6 steps. Direct on the left lane, open."}
 {"n":719,"kind":"place","name":"High line east yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line east yard. Bess keeps the hydrant for the wipe. 7 steps, direct on the left lane, open."}
+{"n":720,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east yard. direct left open. 8 steps. The hydrant stays for the wipe."}
+{"n":721,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at Ward gate. Nobody past the east yard. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":722,"kind":"place","name":"Ward gate east yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate east yard. Matt keeps the barrel for the wipe. 3 steps, direct on the left lane, open."}
