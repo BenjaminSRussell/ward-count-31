@@ -355,3 +355,6 @@
 {"n":355,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the radio coil at Switchyard. Nobody past the west yard. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":356,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard west yard. Ivo keeps the radio coil for the wipe. 8 steps, direct on the left lane, open."}
 {"n":357,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west yard. direct left open. 2 steps. The radio coil stays for the wipe."}
+{"n":358,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at Switchyard. Nobody past the west yard. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":359,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard west yard. Bess keeps the radio coil for the wipe. 4 steps, direct on the left lane, open."}
+{"n":360,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west yard. direct left open. 5 steps. The radio coil stays for the wipe."}
