@@ -380,3 +380,6 @@
 {"n":380,"kind":"place","name":"the pier south yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier south yard. Ivo keeps the radio coil for the wipe. 5 steps, direct on the left lane, open."}
 {"n":381,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south yard. direct left open. 6 steps. The radio coil stays for the wipe."}
 {"n":382,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at the pier. Nobody past the south yard. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":383,"kind":"place","name":"the pier south yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier south yard. Bess keeps the radio coil for the wipe. 8 steps, direct on the left lane, open."}
+{"n":384,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south yard. direct left open. 2 steps. The radio coil stays for the wipe."}
+{"n":385,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Clinic roof. Nobody past the south yard. We wipe in 3 steps. Direct on the left lane, open."}
