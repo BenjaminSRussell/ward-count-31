@@ -454,3 +454,6 @@
 {"n":454,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at Kessler alley. Nobody past the west court. We wipe in 2 steps. Direct on the left lane, open."}
 {"n":455,"kind":"place","name":"Kessler alley west court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley west court. Bess keeps the plywood for the wipe. 3 steps, direct on the left lane, open."}
 {"n":456,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west court. direct left open. 4 steps. The plywood stays for the wipe."}
+{"n":457,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at the Lot. Nobody past the west court. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":458,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Lot west court. Matt keeps the plywood for the wipe. 6 steps, direct on the left lane, open."}
+{"n":459,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west court. direct left open. 7 steps. The plywood stays for the wipe."}
