@@ -928,3 +928,6 @@
 {"n":928,"kind":"place","name":"the Lot east yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot east yard. Ivo keeps the drum for the wipe. 5 steps, direct on the left lane, open."}
 {"n":929,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east yard. direct left open. 6 steps. The drum stays for the wipe."}
 {"n":930,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at the Lot. Nobody past the east yard. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":931,"kind":"place","name":"the Lot east yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot east yard. Bess keeps the drum for the wipe. 8 steps, direct on the left lane, open."}
+{"n":932,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east yard. direct left open. 2 steps. The drum stays for the wipe."}
+{"n":933,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at Stockyard fence. Nobody past the east yard. We wipe in 3 steps. Direct on the left lane, open."}
