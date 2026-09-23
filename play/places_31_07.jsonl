@@ -164,3 +164,6 @@
 {"n":164,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west court. direct left open. 5 steps. The lamp stays for the wipe."}
 {"n":165,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at the Underpass. Nobody past the west court. We wipe in 6 steps. Direct on the left lane, open."}
 {"n":166,"kind":"place","name":"the Underpass west court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass west court. Matt keeps the lamp for the wipe. 7 steps, direct on the left lane, open."}
+{"n":167,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west court. direct left open. 8 steps. The lamp stays for the wipe."}
+{"n":168,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at the Underpass. Nobody past the west court. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":169,"kind":"place","name":"the Underpass west court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass west court. Nia keeps the lamp for the wipe. 3 steps, direct on the left lane, open."}
