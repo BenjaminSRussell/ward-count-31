@@ -504,3 +504,6 @@
 {"n":504,"kind":"place","name":"Mast yard south yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mast yard south yard. Ivo keeps the rope for the wipe. 4 steps, direct on the left lane, open."}
 {"n":505,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south yard. direct left open. 5 steps. The rope stays for the wipe."}
 {"n":506,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rope at Mast yard. Nobody past the south yard. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":507,"kind":"place","name":"Mast yard south yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard south yard. Bess keeps the rope for the wipe. 7 steps, direct on the left lane, open."}
+{"n":508,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south yard. direct left open. 8 steps. The rope stays for the wipe."}
+{"n":509,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at Last Light. Nobody past the south yard. We wipe in 2 steps. Direct on the left lane, open."}
