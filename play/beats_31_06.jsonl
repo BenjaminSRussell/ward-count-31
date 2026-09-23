@@ -538,3 +538,6 @@
 {"n":538,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at South stair. Nobody past the west court. We wipe in 2 steps. Direct on the left lane, open."}
 {"n":539,"kind":"place","name":"South stair west court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair west court. Bess keeps the plywood for the wipe. 3 steps, direct on the left lane, open."}
 {"n":540,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, west court. direct left open. 4 steps. The plywood stays for the wipe."}
+{"n":541,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at the pier. Nobody past the west court. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":542,"kind":"place","name":"the pier west court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier west court. Matt keeps the plywood for the wipe. 6 steps, direct on the left lane, open."}
+{"n":543,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, west court. direct left open. 7 steps. The plywood stays for the wipe."}
