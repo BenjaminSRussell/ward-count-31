@@ -824,3 +824,6 @@
 {"n":824,"kind":"place","name":"the Lot east court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot east court. Ivo keeps the awning for the wipe. 5 steps, direct on the left lane, open."}
 {"n":825,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east court. direct left open. 6 steps. The awning stays for the wipe."}
 {"n":826,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at the Lot. Nobody past the east court. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":827,"kind":"place","name":"the Lot east court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot east court. Bess keeps the awning for the wipe. 8 steps, direct on the left lane, open."}
+{"n":828,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east court. direct left open. 2 steps. The awning stays for the wipe."}
+{"n":829,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at Stockyard fence. Nobody past the east court. We wipe in 3 steps. Direct on the left lane, open."}
