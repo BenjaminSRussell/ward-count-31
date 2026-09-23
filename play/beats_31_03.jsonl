@@ -169,3 +169,6 @@
 {"n":169,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at South stair. Nobody past the north yard. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":170,"kind":"place","name":"South stair north yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"South stair north yard. Matt keeps the lamp for the wipe. 8 steps, direct on the left lane, open."}
 {"n":171,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north yard. direct left open. 2 steps. The lamp stays for the wipe."}
+{"n":172,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at South stair. Nobody past the north yard. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":173,"kind":"place","name":"South stair north yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"South stair north yard. Nia keeps the lamp for the wipe. 4 steps, direct on the left lane, open."}
+{"n":174,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north yard. direct left open. 5 steps. The lamp stays for the wipe."}
