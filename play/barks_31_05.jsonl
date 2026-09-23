@@ -3,3 +3,6 @@
 {"n":3,"kind":"place","name":"Mast yard south yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard south yard. Bess keeps the crate for the wipe. 7 steps, direct on the left lane, open."}
 {"n":4,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south yard. direct left open. 8 steps. The crate stays for the wipe."}
 {"n":5,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Last Light. Nobody past the south yard. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":6,"kind":"place","name":"Last Light south yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light south yard. Matt keeps the crate for the wipe. 3 steps, direct on the left lane, open."}
+{"n":7,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south yard. direct left open. 4 steps. The crate stays for the wipe."}
+{"n":8,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at Last Light. Nobody past the south yard. We wipe in 5 steps. Direct on the left lane, open."}
