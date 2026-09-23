@@ -717,3 +717,6 @@
 {"n":717,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west court. direct left open. 6 steps. The hydrant stays for the wipe."}
 {"n":718,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at the pier. Nobody past the west court. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":719,"kind":"place","name":"the pier west court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier west court. Bess keeps the hydrant for the wipe. 8 steps, direct on the left lane, open."}
+{"n":720,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west court. direct left open. 2 steps. The hydrant stays for the wipe."}
+{"n":721,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at Clinic roof. Nobody past the west court. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":722,"kind":"place","name":"Clinic roof west court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof west court. Matt keeps the hydrant for the wipe. 4 steps, direct on the left lane, open."}
