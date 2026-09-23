@@ -434,3 +434,6 @@
 {"n":434,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at Drydock. Nobody past the west court. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":435,"kind":"place","name":"Drydock west court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Drydock west court. Bess keeps the radio coil for the wipe. 2 steps, direct on the left lane, open."}
 {"n":436,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west court. direct left open. 3 steps. The radio coil stays for the wipe."}
+{"n":437,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at High line. Nobody past the west court. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":438,"kind":"place","name":"High line west court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"High line west court. Matt keeps the radio coil for the wipe. 5 steps, direct on the left lane, open."}
+{"n":439,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west court. direct left open. 6 steps. The radio coil stays for the wipe."}
