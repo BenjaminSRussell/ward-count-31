@@ -989,3 +989,6 @@
 {"n":989,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west court. direct left open. 4 steps. The drum stays for the wipe."}
 {"n":990,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at Stockyard fence. Nobody past the west court. We wipe in 5 steps. Direct on the left lane, open."}
 {"n":991,"kind":"place","name":"Stockyard fence west court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence west court. Bess keeps the drum for the wipe. 6 steps, direct on the left lane, open."}
+{"n":992,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west court. direct left open. 7 steps. The drum stays for the wipe."}
+{"n":993,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at Mall court. Nobody past the west court. We wipe in 8 steps. Direct on the left lane, open."}
+{"n":994,"kind":"place","name":"Mall court west court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mall court west court. Matt keeps the drum for the wipe. 2 steps, direct on the left lane, open."}
