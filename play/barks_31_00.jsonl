@@ -80,3 +80,6 @@
 {"n":80,"kind":"place","name":"the Lot west yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot west yard. Ivo keeps the badge door for the wipe. 5 steps, direct on the left lane, open."}
 {"n":81,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west yard. direct left open. 6 steps. The badge door stays for the wipe."}
 {"n":82,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at the Lot. Nobody past the west yard. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":83,"kind":"place","name":"the Lot west yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot west yard. Bess keeps the badge door for the wipe. 8 steps, direct on the left lane, open."}
+{"n":84,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west yard. direct left open. 2 steps. The badge door stays for the wipe."}
+{"n":85,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Stockyard fence. Nobody past the west yard. We wipe in 3 steps. Direct on the left lane, open."}
