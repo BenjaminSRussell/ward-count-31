@@ -757,3 +757,6 @@
 {"n":757,"kind":"place","name":"Drydock west court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock west court. Nia keeps the shutter for the wipe. 3 steps, direct on the left lane, open."}
 {"n":758,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west court. direct left open. 4 steps. The shutter stays for the wipe."}
 {"n":759,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the shutter at Drydock. Nobody past the west court. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":760,"kind":"place","name":"Drydock west court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock west court. Ivo keeps the shutter for the wipe. 6 steps, direct on the left lane, open."}
+{"n":761,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west court. direct left open. 7 steps. The shutter stays for the wipe."}
+{"n":762,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at Drydock. Nobody past the west court. We wipe in 8 steps. Direct on the left lane, open."}
