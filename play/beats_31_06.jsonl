@@ -994,3 +994,6 @@
 {"n":994,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at Mall court. Nobody past the west court. We wipe in 3 steps. Direct on the left lane, open."}
 {"n":995,"kind":"place","name":"Mall court west court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mall court west court. Bess keeps the crate for the wipe. 4 steps, direct on the left lane, open."}
 {"n":996,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west court. direct left open. 5 steps. The crate stays for the wipe."}
+{"n":997,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at the Underpass. Nobody past the west court. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":998,"kind":"place","name":"the Underpass west court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Underpass west court. Matt keeps the crate for the wipe. 7 steps, direct on the left lane, open."}
+{"n":999,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west court. direct left open. 8 steps. The crate stays for the wipe."}
