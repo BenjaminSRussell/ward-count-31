@@ -482,3 +482,6 @@
 {"n":482,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rope at Mall court. Nobody past the south yard. We wipe in 3 steps. Direct on the left lane, open."}
 {"n":483,"kind":"place","name":"Mall court south yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court south yard. Bess keeps the rope for the wipe. 4 steps, direct on the left lane, open."}
 {"n":484,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south yard. direct left open. 5 steps. The rope stays for the wipe."}
+{"n":485,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at the Underpass. Nobody past the south yard. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":486,"kind":"place","name":"the Underpass south yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass south yard. Matt keeps the rope for the wipe. 7 steps, direct on the left lane, open."}
+{"n":487,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south yard. direct left open. 8 steps. The rope stays for the wipe."}
