@@ -780,3 +780,6 @@
 {"n":780,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west court. direct left open. 6 steps. The barrel stays for the wipe."}
 {"n":781,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at Kessler alley. Nobody past the west court. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":782,"kind":"place","name":"Kessler alley west court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley west court. Matt keeps the barrel for the wipe. 8 steps, direct on the left lane, open."}
+{"n":783,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west court. direct left open. 2 steps. The barrel stays for the wipe."}
+{"n":784,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the barrel at Kessler alley. Nobody past the west court. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":785,"kind":"place","name":"Kessler alley west court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley west court. Nia keeps the barrel for the wipe. 4 steps, direct on the left lane, open."}
