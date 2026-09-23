@@ -683,3 +683,6 @@
 {"n":683,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south yard. direct left open. 2 steps. The hydrant stays for the wipe."}
 {"n":684,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the hydrant at South stair. Nobody past the south yard. We wipe in 3 steps. Direct on the left lane, open."}
 {"n":685,"kind":"place","name":"South stair south yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair south yard. Nia keeps the hydrant for the wipe. 4 steps, direct on the left lane, open."}
+{"n":686,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south yard. direct left open. 5 steps. The hydrant stays for the wipe."}
+{"n":687,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the hydrant at South stair. Nobody past the south yard. We wipe in 6 steps. Direct on the left lane, open."}
+{"n":688,"kind":"place","name":"South stair south yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair south yard. Ivo keeps the hydrant for the wipe. 7 steps, direct on the left lane, open."}
