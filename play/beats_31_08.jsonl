@@ -980,3 +980,6 @@
 {"n":980,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at the Lot. Nobody past the east court. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":981,"kind":"place","name":"the Lot east court","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Lot east court. Nia keeps the crate for the wipe. 2 steps, direct on the left lane, open."}
 {"n":982,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, east court. direct left open. 3 steps. The crate stays for the wipe."}
+{"n":983,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the crate at the Lot. Nobody past the east court. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":984,"kind":"place","name":"the Lot east court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot east court. Ivo keeps the crate for the wipe. 5 steps, direct on the left lane, open."}
+{"n":985,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east court. direct left open. 6 steps. The crate stays for the wipe."}
